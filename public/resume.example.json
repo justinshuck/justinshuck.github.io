@@ -1,45 +1,98 @@
 {
     "basics": {
-        "name": "<FULL_NAME>",
-        "label": "<PROFESSION>",
-        "picture": "<PHOTO>",
-        "email": "<EMAIL_ADDRESS>",
-        "phone": "<PHONE_NUMBER>",
+        "name": "Justin Shuck",
+        "foo": "THIS WORLD IS ON FIRE",
+        "label": "Software Developer",
+        "picture": "images/just-1.jpg",
+        "email": "justin.m.shuck@gmail.com",
+        "phone": "503-621-4842",
         "website": "<WEBSITE>",
         "summary": [
-            "<SUMMARY_1>",
-            "<SUMMARY_2>",
-            "<SUMMARY_3>"
+            "Full Stack Software engineer       |       Portland, Oregon"
         ],
         "location": {
             "address": "<ADDRESS>",
             "postalCode": "<POSTAL_CODE>",
-            "city": "<CITY>",
-            "countryCode": "<COUNTRY>",
-            "region": "<REGION>"
+            "city": "Portland, Oregon",
+            "region": "Oregon"
         },
         "profiles": [
             {
-                "network": "<NETWORK>",
-                "username": "<USERNAME>",
-                "url": "<URL>"
+                "network": "github",
+                "username": "justinshuck",
+                "url": "https://github.com/justinshuck"
+            },
+            {
+                "network": "linkedin",
+                "username": "justinshuck",
+                "url": "https://www.linkedin.com/in/justin-shuck-67abb562/"
+            },
+            {
+                "network": "email",
+                "username": "justin.m.shuck@gmail.com",
+                "url": "mailto:justin.m.shuck@gmail.com"
+            },
+            {
+                "network": "twitter",
+                "username": "jmshuck",
+                "url": "https://twitter.com/jmshuck?lang=en"
             }
         ]
     },
     "work": [
         {
-            "company": "<COMPANY_NAME>",
-            "position": "<POSITION>",
-            "website": "<COMPANY_WEBSITE>",
-            "startDate": "<START_DATE>",
-            "endDate": "<END_DATE>",
+            "company": "CDK Global",
+            "position": "Software Development Supervisor",
+            "website": "https://www.cdkglobal.com/us",
+            "startDate": "March 2018",
+            "endDate": "Present",
             "summary": "<SUMMARY>",
             "highlights": [
-                "<HIGHTLIGHT_1>",
-                "<HIGHTLIGHT_2>",
+                "Managed a full scrum team consisting of Software engineers and interns",
+                "Recruited and led interviews for multiple open positions",
+                "<HIGHTLIGHT_3>"
+            ]
+        },
+        {
+            "company": "CDK Global",
+            "position": "Software Engineer",
+            "website": "https://www.cdkglobal.com/us",
+            "startDate": "January 2015",
+            "endDate": "March 2018",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "Managed a full scrum team consisting of Software engineers and interns",
+                "Recruited and led interviews for multiple open positions",
+                "<HIGHTLIGHT_3>"
+            ]
+        },
+        {
+            "company": "WebMD Health Services",
+            "position": "Quality Assurance Intern",
+            "website": "https://www.cdkglobal.com/us",
+            "startDate": "July 2014",
+            "endDate": "December 2014",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "Managed a full scrum team consisting of Software engineers and interns",
+                "Recruited and led interviews for multiple open positions",
+                "<HIGHTLIGHT_3>"
+            ]
+        },
+        {
+            "company": "ADP Dealer Solutions (Currently CDK Global)",
+            "position": "Software Development Intern",
+            "website": "https://www.cdkglobal.com/us",
+            "startDate": "January 2014",
+            "endDate": "June 2014",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "Managed a full scrum team consisting of Software engineers and interns",
+                "Recruited and led interviews for multiple open positions",
                 "<HIGHTLIGHT_3>"
             ]
         }
+
     ],
     "volunteer": [
         {
@@ -58,12 +111,12 @@
     ],
     "education": [
         {
-            "institution": "<INSTITUTION_NAME>",
-            "area": "<AREA_OF_STUDY>",
+            "institution": "Portland State University",
+            "area": "Bachaler in Computer Science",
             "studyType": "<STUDY_TYPE>",
             "startDate": "<START_DATE>",
-            "endDate": "<END_DATE>",
-            "gpa": "<GRADE_POINT_AVERAGE>",
+            "endDate": "June 2015",
+            "gpa": "3.51",
             "summary": "<SUMMARY>",
             "courses": [
                 "<COURSE_1>",

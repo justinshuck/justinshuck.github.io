@@ -29,11 +29,9 @@ const Entry = React.createClass({
                     <p className='info'>
                         {this.props.entry.position}
                         <span> &bull; </span>
-                        <span className='info-summary'>{this.props.entry.summary}</span>
-                        <span> &bull; </span>
-                        <em className='date'>{startDate} - {endDate}</em>
+                        <em className='date'>{this.props.entry.startDate} - {this.props.entry.endDate}</em>
                     </p>
-                    <BulletPoints points={this.props.entry.highlights}/>
+                    {/*<BulletPoints points={this.props.entry.highlights}/>*/}
                 </div>
                 {divider}
             </div>

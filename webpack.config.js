@@ -24,6 +24,10 @@ function getConfig() {
                     test: /\.js$/,
                     include: path.join(__dirname, 'app'),
                     loaders: ['babel-loader']
+                },
+                {
+                    test: /\.jpg$/,
+                    loaders: 'url-loader'
                 }
             ]
         },

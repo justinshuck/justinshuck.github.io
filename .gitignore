@@ -2,7 +2,7 @@
 # DEFAULT NODE.JS IGNORE FILES
 # https://github.com/github/gitignore/blob/master/Node.gitignore
 # ------------------------------------------------------------------------------
-
+.idea/
 
 # Logs
 logs

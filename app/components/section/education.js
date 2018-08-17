@@ -12,7 +12,7 @@ const Entry = React.createClass({
 
     render: function () {
         const startDate = Datetime.getDisplayFromDate(this.props.entry.startDate);
-        const endDate = Datetime.getDisplayFromDate(this.props.entry.endDate);
+        // const endDate = Datetime.getDisplayFromDate();
         return (
             <div className='row item'>
                 <div className='twelve columns'>
@@ -20,9 +20,12 @@ const Entry = React.createClass({
                     <p className='info'>
                         {this.props.entry.area}
                         <span> &bull; </span>
-                        <span className='info-summary'>{this.props.entry.summary}</span>
-                        <span> &bull; </span>
-                        <em className='date'>{startDate} - {endDate}</em>
+                        <em className='date'>{this.props.entry.endDate}</em>
+                    </p>
+                    <p>
+                        <a href='https://www.pdx.edu/computer-science/pcep-internship'>
+                           Portland Co-Op Exchange Program (PCEP) Alumni
+                        </a>
                     </p>
                 </div>
             </div>

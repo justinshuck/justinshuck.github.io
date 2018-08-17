@@ -33,18 +33,21 @@ const SocialMedia = React.createClass({
 
     render: function () {
         return (
-            <ul className={this.props.ulClass}>
-                {this.props.profiles.map(function (profile, index) {
-                    const icon = mapIcon(profile.network.toLowerCase());
-                    return (
-                        <li key={index}>
-                            <a href={profile.url}>
-                                {icon}
-                            </a>
-                        </li>
-                    );
-                })}
-            </ul>
+            <div>
+                <ul className={this.props.ulClass}>
+                    {this.props.profiles.map(function (profile, index) {
+                        const icon = mapIcon(profile.network.toLowerCase());
+                        return (
+                            <li key={index}>
+                                <a href={profile.url}>
+                                    {icon}
+                                </a>
+                            </li>
+                        );
+                    })}
+                </ul>
+                <br/>
+            </div>
         );
     }
 });

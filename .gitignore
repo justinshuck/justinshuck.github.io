@@ -59,5 +59,4 @@ jspm_packages
 # CUSTOM
 # ------------------------------------------------------------------------------
 public/images/portfolio
-resume.json
 bundle.js.map

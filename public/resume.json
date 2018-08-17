@@ -1,0 +1,200 @@
+{
+    "basics": {
+        "name": "Justin Shuck",
+        "foo": "THIS WORLD IS ON FIRE",
+        "label": "Software Developer",
+        "picture": "images/just-1.jpg",
+        "email": "justin.m.shuck@gmail.com",
+        "phone": "503-621-4842",
+        "website": "<WEBSITE>",
+        "summary": [
+            "Full Stack Software engineer       |       Portland, Oregon"
+        ],
+        "location": {
+            "address": "<ADDRESS>",
+            "postalCode": "<POSTAL_CODE>",
+            "city": "Portland, Oregon",
+            "region": "Oregon"
+        },
+        "profiles": [
+            {
+                "network": "github",
+                "username": "justinshuck",
+                "url": "https://github.com/justinshuck"
+            },
+            {
+                "network": "linkedin",
+                "username": "justinshuck",
+                "url": "https://www.linkedin.com/in/justin-shuck-67abb562/"
+            },
+            {
+                "network": "email",
+                "username": "justin.m.shuck@gmail.com",
+                "url": "mailto:justin.m.shuck@gmail.com"
+            },
+            {
+                "network": "twitter",
+                "username": "jmshuck",
+                "url": "https://twitter.com/jmshuck?lang=en"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "CDK Global",
+            "position": "Software Development Supervisor",
+            "website": "https://www.cdkglobal.com/us",
+            "startDate": "March 2018",
+            "endDate": "Present",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "Managed a full scrum team consisting of Software engineers and interns",
+                "Recruited and led interviews for multiple open positions",
+                "<HIGHTLIGHT_3>"
+            ]
+        },
+        {
+            "company": "CDK Global",
+            "position": "Software Engineer",
+            "website": "https://www.cdkglobal.com/us",
+            "startDate": "January 2015",
+            "endDate": "March 2018",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "Managed a full scrum team consisting of Software engineers and interns",
+                "Recruited and led interviews for multiple open positions",
+                "<HIGHTLIGHT_3>"
+            ]
+        },
+        {
+            "company": "WebMD Health Services",
+            "position": "Quality Assurance Intern",
+            "website": "https://www.cdkglobal.com/us",
+            "startDate": "July 2014",
+            "endDate": "December 2014",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "Managed a full scrum team consisting of Software engineers and interns",
+                "Recruited and led interviews for multiple open positions",
+                "<HIGHTLIGHT_3>"
+            ]
+        },
+        {
+            "company": "ADP Dealer Solutions (Currently CDK Global)",
+            "position": "Software Development Intern",
+            "website": "https://www.cdkglobal.com/us",
+            "startDate": "January 2014",
+            "endDate": "June 2014",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "Managed a full scrum team consisting of Software engineers and interns",
+                "Recruited and led interviews for multiple open positions",
+                "<HIGHTLIGHT_3>"
+            ]
+        }
+
+    ],
+    "volunteer": [
+        {
+            "organization": "<ORGANIZATION_NAME>",
+            "position": "<POSITION>",
+            "website": "<WEBSITE>",
+            "startDate": "<START_DATE>",
+            "endDate": "<END_DATE>",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "<HIGHTLIGHT_1>",
+                "<HIGHTLIGHT_2>",
+                "<HIGHTLIGHT_3>"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Portland State University",
+            "area": "Bachaler in Computer Science",
+            "studyType": "<STUDY_TYPE>",
+            "startDate": "<START_DATE>",
+            "endDate": "June 2015",
+            "gpa": "3.51",
+            "summary": "<SUMMARY>",
+            "courses": [
+                "<COURSE_1>",
+                "<COURSE_2>",
+                "<COURSE_3>"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "<AWARD_TITLE>",
+            "date": "<DATE>",
+            "awarder": "<AWARDER>",
+            "summary": "<SUMMARY>"
+        }
+    ],
+    "projects": [
+        {
+            "name": "<PUBLICATION_NAME>",
+            "publisher": "<PUBLISHER>",
+            "category": "<CATEGORY>",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "<WEBSITE>",
+            "summary": "<SUMMARY>",
+            "image": {
+                "modal": "<MODAL_IMAGE>",
+                "thumb": "<THUMBNAIL_IMAGE>"
+            },
+            "keywords": [
+                "<KEYWORD_1>",
+                "<KEYWORD_2>",
+                "<KEYWORD_3>"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "<DESCRIPTION_TITLE>",
+            "description": [
+                "<DESCRIPTION_1>",
+                "<DESCRIPTION_2>",
+                "<DESCRIPTION_3>"
+            ],
+            "skillDetails": [
+                {
+                    "name": "<SKILL_NAME>",
+                    "level": "<SKILL_LEVEL>",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "name": "<LANGUAGE_NAME>",
+            "level": "<LANGUAGE_LEVEL>"
+        }
+    ],
+    "interests": [
+        {
+            "name": "<INTEREST_NAME>",
+            "keywords": [
+                "<KEYWORD_1>",
+                "<KEYWORD_2>",
+                "<KEYWORD_3>"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "<REFERENCE_NAME>",
+            "position": "<POSITION>",
+            "company": "<COMPANY>",
+            "reference": "<SUMMARY>"
+        }
+    ]
+}

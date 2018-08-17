@@ -1,27 +1,18 @@
 {
-  "name": "suddi.github.io",
+  "name": "justinshuck.github.io",
   "private": true,
-  "description": "Sudharshan Ravindran personal site",
-  "version": "1.2.2",
-  "homepage": "https://suddi.github.io",
+  "description": "Justin Shuck personal site",
+  "version": "1.0.0",
+  "homepage": "https://justinshuck.github.io",
   "author": {
-    "name": "Sudharshan Ravindran",
-    "email": "suddi@mail.io",
-    "url": "https://suddi.github.io"
+    "name": "Justin Shuck",
+    "email": "justin.m.shuck@gmail.com",
+    "url": "https://justinshuck.github.io"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/suddi/suddi.github.io"
+    "url": "https://github.com/justinshuck/justinshuck.github.io"
   },
-  "bugs": {
-    "url": "https://github.com/suddi/suddi.github.io/issues"
-  },
-  "licenses": [
-    {
-      "type": "Apache-2.0",
-      "url": "https://github.com/suddi/suddi.github.io/LICENSE"
-    }
-  ],
   "engines": {
     "node": ">= 4.0.0",
     "npm": ">= 2.0.0"

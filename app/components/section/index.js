@@ -6,6 +6,7 @@ const ResumePropTypes = require('../../prop_types/resume');
 const About = require('./about');
 const Work = require('./work');
 const Education = require('./education');
+const Talks = require('./talks');
 const Skills = require('./skills');
 const Portfolio = require('./portfolio');
 const References = require('./references');
@@ -32,6 +33,7 @@ const Section = React.createClass({
             <div>
                 <About content={this.props.basics}/>
                 <Work content={this.props.work}/>
+                <Talks content={this.props.talks} />
                 <Education content={this.props.education}/>
                 <Footer content={this.props.basics}/>
             </div>

@@ -313,7 +313,10 @@ strong.fa-quora {
 #work .header-col { padding-top: 9px; }
 #work .main-col { padding-right: 10%; }
 
-.education, .work {
+.padded-icon {
+    margin-left: 25px;
+}
+.work, .talks {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
@@ -1240,3 +1243,60 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+
+
+#talks {
+    background: #fff;
+    padding-top: 90px;
+    padding-bottom: 0px;
+    overflow: hidden;
+}
+
+#talks a, #talks a:visited  { color: #313131; }
+#talks a:hover, #talks a:focus { color: #11ABB0; }
+
+#talks h1 {
+    font: 18px/24px 'opensans-bold', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+#talks h1 span {
+    border-bottom: 3px solid #11ABB0;
+    padding-bottom: 6px;
+}
+#talks h3 {
+    font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#talks .header-col { padding-top: 9px; }
+#talks .main-col { padding-right: 10%; }
+
+.padded-icon {
+    margin-left: 25px;
+}
+.talks {
+    margin-bottom: 48px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid #E8E8E8;
+}
+#talks .info {
+    font: 15px/24px 'librebaskerville-regular', sans-serif;
+    color: #6E7881;
+    margin-bottom: 18px;
+    margin-top: 9px;
+}
+#talks .info span {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#talks .info-summary {
+    font: 15px/24px 'librebaskerville-regular', sans-serif;
+    margin-top: 6px;
+}
+#talks .date {
+    font: 15px/24px 'librebaskerville-regular', sans-serif;
+    margin-top: 6px;
+}
+#talks .point {
+    margin: 0 0 10px 0;
+}

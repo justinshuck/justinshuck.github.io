@@ -116,13 +116,39 @@
             "studyType": "<STUDY_TYPE>",
             "startDate": "<START_DATE>",
             "endDate": "June 2015",
-            "gpa": "3.51",
+            "gpa": "3.52 GPA",
             "summary": "<SUMMARY>",
             "courses": [
                 "<COURSE_1>",
                 "<COURSE_2>",
                 "<COURSE_3>"
             ]
+        }
+    ],
+    "talks": [
+        {
+            "title": "War Room - An open source developer tool & platform",
+            "date": "December 2017 (Project Pitch)",
+            "org": "Department of Computer Science Capstone",
+            "location": "Portland State University",
+            "description": "Worked with two other engineers to pitch an open source developer tool and platform to assist in a developers daily activities. This dashboard is exported as a chrome extension and included integrations from sources such as GitHub, Bitbucket, reddit and is extensible to integrate more tools. The platform allows any developer to submit a new widget to the dashboard. Project pitch was accepted and the project was completed during Winter/Spring term (January - June 2018).",
+            "link": "https://github.com/DeveloperWarRoom/DeveloperWarRoom"
+        },
+        {
+            "title": "Client side load balancing using Ribbon & Feign",
+            "date": "November 2017",
+            "org": "Java Developer Guild",
+            "location": "CDK Global",
+            "description": "Overview of client side load balancing and including an overview of achieving it with netflix's open source project Ribbon.",
+            "link": "https://github.com/justinshuck/Client-side-loadbalancing-presentation"
+        },
+        {
+            "title": "Driving your career - Perspective as a software engineer",
+            "date": "March 2017",
+            "org": "PNW Louis Stokes Alliance for Minority Participation (LSAMP) Conference",
+            "location": "Oregon State University (OSU)",
+            "description": "Perspective on how to jump start your career before you've officially started it. This talk will focus on some of the lessons i've learned along my journey through academia and into the industry.",
+            "link": null
         }
     ],
     "awards": [

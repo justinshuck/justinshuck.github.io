@@ -28,7 +28,7 @@ const About = React.createClass({
                         <div className='row'>
                             <div className='columns contact-details'>
                                 <i className={'fa fa-file'}/>
-                                <a style={{marginLeft: '25px'}} href='https://s3-us-west-2.amazonaws.com/shuck-site/Justin+Shuck+Resume-FullStack.pdf'>
+                                <a className='padded-icon' href='https://s3-us-west-2.amazonaws.com/shuck-site/Justin+Shuck+Resume-FullStack.pdf'>
                                     View Resume
                                 </a>
                                 <br/>

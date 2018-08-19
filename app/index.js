@@ -13,6 +13,7 @@ function getNavigation() {
         home: 'Home',
         about: 'About',
         work: 'Work',
+        talks: 'Talks',
         education: 'Education'
     };
 }
